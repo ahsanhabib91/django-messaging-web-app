@@ -1,6 +1,6 @@
-
-
 .DS_Store
+
+# Virtualenv related
 /bin
 /include
 pip-selfcheck.json
