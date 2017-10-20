@@ -3,6 +3,8 @@
 # Virtualenv related
 /bin
 /include
+/media_cdn/images
+/media_cdn/files
 pip-selfcheck.json
 
 # Byte-compiled / optimized / DLL files
