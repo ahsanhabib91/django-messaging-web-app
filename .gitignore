@@ -3,7 +3,6 @@
 .DS_Store
 /bin
 /include
-/media_cdn/images/
 pip-selfcheck.json
 
 # Byte-compiled / optimized / DLL files
