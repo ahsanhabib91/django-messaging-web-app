@@ -15,13 +15,13 @@ This is a reusable Django project that can handle private messages between Users
 
 ## Installation
 
-1. `git clone https://github.com/ahsanhabib91/django-messaging-web-app.git`
-2. `cd django-messaging-web-app`.
-3. `virtualenv .`.
-4. `source bin/activate`.
-5. `pip install -r requirements.txt`.
-6. `cd src`
-7. Update the `django_messaging_service/setting.py file`. Put the front-end Ip address and port number in `CORS_ORIGIN_WHITELIST` and Update the Database information. Please use `Postfresql` as `Database`.
-8. `python manage.py makemigrations`.
-9. `python manage.py migrate`.
-10. `python manage.py runserver`.
+*	`git clone https://github.com/ahsanhabib91/django-messaging-web-app.git`
+*	`cd django-messaging-web-app`.
+*	`virtualenv .`.
+*	`source bin/activate`.
+*	`pip install -r requirements.txt`.
+*	`cd src`
+*	Update the `django_messaging_service/setting.py file`. Put the front-end Ip address and port number in `CORS_ORIGIN_WHITELIST` and Update the Database information. Please use `Postfresql` as `Database`.
+*	`python manage.py makemigrations`.
+*	`python manage.py migrate`.
+*	`python manage.py runserver`.
