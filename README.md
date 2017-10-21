@@ -21,7 +21,7 @@ This is a reusable Django project that can handle private messages between Users
 *	`source bin/activate`.
 *	`pip install -r requirements.txt`.
 *	`cd src`
-*	Update the `django_messaging_service/setting.py file`. Put the front-end Ip address and port number in `CORS_ORIGIN_WHITELIST` and Update the Database information. Please use `Postfresql` as `Database`.
+*	Update the `django_messaging_service/setting.py file`. Put the front-end `Ip address` and `port number` in `CORS_ORIGIN_WHITELIST` and Update the Database information. Please use `Postfresql` as `Database`.
 *	`python manage.py makemigrations`.
 *	`python manage.py migrate`.
 *	`python manage.py runserver`.
