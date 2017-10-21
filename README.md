@@ -4,14 +4,14 @@ This is a reusable Django project that can handle private messages between Users
 
 ## Features
 
-1. User Registration.
-2. User Login and Logout.
+1. User `Registration`.
+2. User `Login` and `Logout`.
 3. A User is allowed to have different Conversations with another User
-4. A User can Archive a Conversation.
-4. A User can Delete a Conversation.
-5. User can see sorted Conversation list where his last Conversation shows up with timestamp.
-6. User can see all the messages with timestamp related to a particular conversation sorted by timestamp.
-7. User can send messages and Photos to another User and maintaina a Conversation thread.
+4. A User can `Archive` a Conversation.
+4. A User can `Delete` a Conversation.
+5. User can see `sorted Conversation list` where his last Conversation shows up with `timestamp`.
+6. User can see `message list` with `timestamp` related to a particular `Conversation` sorted by `timestamp`.
+7. User can send `messages` and `Photos` to another User and maintaina a `Conversation thread`.
 
 ## Installation
 
