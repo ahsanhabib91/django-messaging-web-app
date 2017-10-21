@@ -1,6 +1,6 @@
 # Django Messaging Web App
 
-This is a reusable Django project that can handle private messages between Users implemented with `Django Rest Framework` and `PostgreSQL`. The front-end of this project is implement with `Angular 4`, `Material UI` and `Bootstrap` which can be found in this [repository](https://github.com/ahsanhabib91/angular-messaging-web-app).
+This is a reusable Django project that can handle private messages between Users implemented with `Pythong 3`, `Django Rest Framework` and `PostgreSQL`. The front-end of this project is implement with `Angular 4`, `Material UI` and `Bootstrap` which can be found in this [repository](https://github.com/ahsanhabib91/angular-messaging-web-app).
 
 ## Features
 
@@ -17,6 +17,7 @@ This is a reusable Django project that can handle private messages between Users
 
 *	`git clone https://github.com/ahsanhabib91/django-messaging-web-app.git`
 *	`cd django-messaging-web-app`.
+*	Please make sure that you have installed `Python 3`.
 *	`virtualenv .`.
 *	`source bin/activate`.
 *	`pip install -r requirements.txt`.
