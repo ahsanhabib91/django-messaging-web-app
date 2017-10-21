@@ -120,11 +120,11 @@ WSGI_APPLICATION = 'django_messaging_service.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.postgresql_psycopg2",
-        "NAME": "message_web_app",
-        "USER": "habib",
+        "NAME": "",
+        "USER": "",
         "PASSWORD": "",
-        "HOST": "localhost",
-        "PORT": "5432",
+        "HOST": "",
+        "PORT": "",
     }
 }
 
